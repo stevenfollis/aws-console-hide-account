@@ -14,7 +14,7 @@ This simple [Tampermonkey](https://www.tampermonkey.net/) script hides the logge
 
 1. [Install](https://www.tampermonkey.net/faq.php#Q100) and enable the Tampermonkey browser extension for your browser
 
-1. [Open](./AWSConsoleAccountIdObfuscator.user.js) this repository's JavaScript file
+1. [Open](https://github.com/stevenfollis/aws-console-hide-account/raw/main/AWSConsoleAccountIdObfuscator.user.js) this repository's JavaScript file
 
 1. The Tampermonkey extension should detect that the browser is viewing a Tampermonkey script and provide the ability to easily click "Install."
 
